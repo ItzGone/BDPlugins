@@ -1,2 +1,2 @@
 # ReadHiddenMessages Changelog
-##Plugin hasn't released yet.
+## Plugin hasn't released yet.
